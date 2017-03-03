@@ -1,4 +1,4 @@
-# Data Structure and Algorithm lab exam all programs
+# Data Structure and Algorithm all programs
 1. Array split 
 2. Array Merge 
 3. Linear Search 
